@@ -2,6 +2,9 @@
 
 This project builds a complete machine learning pipeline to predict participant age from synthetic fMRI brain connectivity data. It uses advanced data preprocessing, dimensionality reduction (PCA), oversampling of under-represented age groups, and model training with Random Forest, Ridge Regression, and XGBoost regressors.
 
+> **Note**: The dataset is not included in this repository. You must obtain the data through your research files or synthetic dataset provider.
+
+## 💻 Main Features
 ## 📂 Dataset
 
 The dataset consists of synthetic upper triangular matrix representations of fMRI-derived brain connectivity data.  
